@@ -1,3 +1,4 @@
+*~
 lib-cov
 *.seed
 *.log
@@ -6,7 +7,7 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+twitter-keys.js
 pids
 logs
 results
