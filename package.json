@@ -1,0 +1,10 @@
+{
+  "name": "mooculus-twitter",
+  "description": "Tweet calculus problems",
+  "version": "0.0.318",
+  "private": true,
+  "dependencies": {
+    "ntwitter": "*",
+    "oauth": "*"
+  }
+}
